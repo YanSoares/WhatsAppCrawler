@@ -1,0 +1,5 @@
+[11732:11336:1119/134525.503:WARNING:CONSOLE(0)] "HTML Imports is deprecated and will be removed in M73, around March 2019. Please use ES modules instead. See https://www.chromestatus.com/features/5144752345317376 for more details.", source:  (0)
+[11732:11336:1119/134525.507:WARNING:CONSOLE(77)] "document.registerElement is deprecated and will be removed in M73, around March 2019. Please use window.customElements.define instead. See https://www.chromestatus.com/features/4642138092470272 for more details.", source: https://ssl.gstatic.com/chrome/components/doodle-notifier-02.html (77)
+[11732:11336:1119/134927.371:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[11732:11336:1119/134927.372:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[11732:11336:1119/134927.372:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
